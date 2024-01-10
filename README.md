@@ -8,6 +8,12 @@
 
 In the attached repository you will find all the challenges, just click [here](https://github.com/marocena26/Angular-from-zero-to-expert) 😋.
 
+## 🚀 Introduction
+
+In this repository you can find the files generated in the **Angular: de cero a experto** within **[Fernando Herrera Udemy](https://www.udemy.com/course/angular-fernando-herrera/)**.
+
+This project develops a series of exercises to practice basic typescript directives.
+
 ## 🛠️ Tools
 
 The following tools have been used when solving the project:
